@@ -17,3 +17,5 @@ transformation, and integration. Ensure the
 dashboard is user-friendly and customizable to
 meet stakeholders' needs for informed
 decision-making.
+
+Dataset = https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
